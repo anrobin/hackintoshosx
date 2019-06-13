@@ -1,0 +1,2 @@
+# hackintoshosx
+hackintosh osx soft
